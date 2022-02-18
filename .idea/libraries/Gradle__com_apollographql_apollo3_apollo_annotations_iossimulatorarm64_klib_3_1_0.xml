@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.apollographql.apollo3:apollo-annotations-iossimulatorarm64:klib:3.1.0" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.apollographql.apollo3/apollo-annotations-iossimulatorarm64/3.1.0/c3283fff220614caa8a009e584b66f699769fcf8/apollo-annotations.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.apollographql.apollo3/apollo-annotations-iossimulatorarm64/3.1.0/750b98caa2db0c263345dec3c017399197905088/apollo-annotations-iossimulatorarm64-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

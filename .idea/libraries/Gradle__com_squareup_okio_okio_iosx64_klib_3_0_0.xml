@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.okio:okio-iosx64:klib:3.0.0" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-iosx64/3.0.0/f64db36f0b0afb7e0be94d1c2bbac1f2f03ba3fe/okio.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-iosx64/3.0.0/54bc2a27d94946fa39ef79f8d667a1d6046eec71/okio-iosx64-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

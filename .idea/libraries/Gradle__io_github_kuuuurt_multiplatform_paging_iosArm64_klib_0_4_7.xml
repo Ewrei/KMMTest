@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.kuuuurt:multiplatform-paging-iosArm64:klib:0.4.7" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.kuuuurt/multiplatform-paging-iosArm64/0.4.7/adb1f0d435e07ce731de5beb44c57da2a9e99064/paging.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.kuuuurt/multiplatform-paging-iosArm64/0.4.7/1ce14e7a67e60f908e55c6665cfdf8e979ac3e6e/multiplatform-paging-iosArm64-0.4.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

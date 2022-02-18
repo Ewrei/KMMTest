@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.benasher44:uuid-iosx64:klib:0.3.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.benasher44/uuid-iosx64/0.3.1/c947ad3c696a879007cd27e2bc732ad644818da0/uuid.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.benasher44/uuid-iosx64/0.3.1/d626351ede98a83fe882c3b9e923dde973c007d9/uuid-iosx64-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

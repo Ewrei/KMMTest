@@ -1,0 +1,57 @@
+query GetCharacters($page: Int) {
+	characters(page: $page) {
+		info {
+			pages, count, next
+		}
+		results {
+			...CharacterDetailModel
+		}
+	}
+}
+
+query GetCharacter($id: ID!){
+	character(id: $id) {
+		...CharacterDetailModel
+	}
+}
+
+query GetEpisodes($page: Int){
+	episodes(page: $page) {
+		info {
+			count, pages, next
+		}
+		results {
+			...EpisodeDetailModel
+		}
+	}
+}
+
+query GetEpisode($id: ID!) {
+	episode(id: $id) {
+		...EpisodeDetailModel
+	}
+}
+
+
+fragment CharacterDetailModel on Character {
+	id, name, image, status, species, type, gender
+	episode {
+		id, name, air_date
+	}
+	location {
+		id, name
+	}
+	origin {
+		name
+	}
+}
+
+
+fragment EpisodeDetailModel on Episode {
+	id, name, created, air_date, episode
+	characters {
+		id, name, image
+	}
+}
+
+

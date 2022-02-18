@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.kuuuurt:multiplatform-paging-jvm:0.4.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.kuuuurt/multiplatform-paging-jvm/0.4.7/58edf5bc67f53c40257a7ef5501b7113d0cc950c/paging-jvm-0.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.kuuuurt/multiplatform-paging-jvm/0.4.7/af197dee8202478d863f1b91a3b20ce8c4e9adb6/multiplatform-paging-jvm-0.4.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.kuuuurt/multiplatform-paging-jvm/0.4.7/8f3c5d6cc45c3ba751b8bd36a2100d51bb194252/multiplatform-paging-jvm-0.4.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

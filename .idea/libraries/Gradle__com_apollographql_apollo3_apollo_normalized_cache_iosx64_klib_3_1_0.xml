@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.apollographql.apollo3:apollo-normalized-cache-iosx64:klib:3.1.0" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.apollographql.apollo3/apollo-normalized-cache-iosx64/3.1.0/93c5e6a068f5b7d6434efc88a8d6326b8a76a1f7/apollo-normalized-cache.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.apollographql.apollo3/apollo-normalized-cache-iosx64/3.1.0/edc4f499bbc8e99e050f596a3d6708c9358fe74d/apollo-normalized-cache-iosx64-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
